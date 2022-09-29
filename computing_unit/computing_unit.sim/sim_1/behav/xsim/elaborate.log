@@ -1,0 +1,19 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto e529aa6aecee4fdd808d6045c7a0c375 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot computing_unit_behav xil_defaultlib.computing_unit xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 6 for port 'program_counter' [D:/stud projs/Vivado/RTL/computing_unit.sv:68]
+WARNING: [VRFC 10-3283] element index 32 into 'constant_extended' is out of bounds [D:/stud projs/Vivado/RTL/computing_unit.sv:93]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.ALUOps
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.instruction_memory
+Compiling module xil_defaultlib.register_file
+Compiling module xil_defaultlib.computing_unit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot computing_unit_behav

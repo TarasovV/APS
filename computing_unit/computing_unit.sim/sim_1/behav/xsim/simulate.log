@@ -1,0 +1,3 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+WARNING: File D:/stud_projs/Vivado/RTL/test_data.mem referenced on D:/stud projs/Vivado/RTL/instruction_memory.sv at line 33 cannot be opened for reading. Please ensure that this file is available in the current working directory.

@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/stud projs/Vivado/RTL/top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/stud projs/Vivado/RTL/instruction_memory.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_memory
+INFO: [VRFC 10-2458] undeclared symbol Data, assumed default net type wire [D:/stud projs/Vivado/RTL/instruction_memory.sv:35]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/stud projs/Vivado/RTL/register_file.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/stud projs/Vivado/RTL/computing_unit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module computing_unit
